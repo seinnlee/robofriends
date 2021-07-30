@@ -2,7 +2,7 @@
   font-family: 'SEGA';
   font-style: normal;
   font-weight: normal;
-  src: local("SEGA"), url("./fonts/SEGA.TTF") format("truetype");
+  src: local("SEGA"), url("../fonts/SEGA.TTF") format("truetype");
 }
 
 h1 {
